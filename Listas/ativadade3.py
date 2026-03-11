@@ -1,0 +1,5 @@
+paes = float(input("Digite a quantidade de paes francese:"))
+broas = float (input("digite a quantidade de broas:"))
+total = (paes * 0.12) + (broas * 1.50)
+print ("o total arrecadado é:",total)
+print ("o total guardado na poupança é:", total*0,10)
